@@ -5,9 +5,11 @@ Developed by:
 
 ## Description
 ![](500_best_companies.mov.gif)
+
 An exploratory data analysis project that showcases the differences and similarities in attributes regarding the top 500 companies to work for according to Forbes.com
 
 Data set size: 500 rows x 8 columns.
+
 Here's an example a of typical record in JSON format:
 ```
    {
